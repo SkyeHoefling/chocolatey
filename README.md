@@ -7,8 +7,6 @@ This script is designed for anyone trying to get a Visual Studio Development Env
 ## Software ##
 A list of all the tools that will be installed
 
-* Visual Studio 2017
-* Microsoft SQL Server Management Studio 2016
 * Chrome
 * Firefox
 * Fiddler4
