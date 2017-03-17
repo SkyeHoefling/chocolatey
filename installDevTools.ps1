@@ -8,3 +8,4 @@ choco install paint.net -y --force
 choco install googlechrome -y --force
 choco install firefox -y --force
 choco install linqpad -y --force
+choco install git -y --force
