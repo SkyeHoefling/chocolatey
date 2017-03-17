@@ -7,8 +7,6 @@ This script is designed for anyone trying to get a Visual Studio Development Env
 ## Software ##
 A list of all the tools that will be installed
 
-* Visual Studio 2017
-* Microsoft SQL Server Management Studio 2016
 * Chrome
 * Firefox
 * Fiddler4
@@ -16,18 +14,21 @@ A list of all the tools that will be installed
 * Notepad++
 * LinqPad
 * 7Zip
+* git
 
 # Usage #
 
-1. Clone or Download repository
+1. Open PowerShell in administrator mode
+
+2. Clone or Download repository
 
 `https://github.com/ahoefling/chocolatey.git`
 
-2. Enable PowerShell Scrips
+3. Enable PowerShell Scripts
 
 `Set-ExecutionPolicy Unrestricted`
 
-3. Execute script
+4. Execute script
 
 `./installDevTools.ps1`
 
