@@ -18,15 +18,17 @@ A list of all the tools that will be installed
 
 # Usage #
 
-1. Clone or Download repository
+1. Open PowerShell in administrator mode
+
+2. Clone or Download repository
 
 `https://github.com/ahoefling/chocolatey.git`
 
-2. Enable PowerShell Scrips
+3. Enable PowerShell Scripts
 
 `Set-ExecutionPolicy Unrestricted`
 
-3. Execute script
+4. Execute script
 
 `./installDevTools.ps1`
 
