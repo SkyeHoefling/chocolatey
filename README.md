@@ -14,6 +14,7 @@ A list of all the tools that will be installed
 * Notepad++
 * LinqPad
 * 7Zip
+* git
 
 # Usage #
 
