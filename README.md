@@ -15,6 +15,7 @@ A list of all the tools that will be installed
 * LinqPad
 * 7Zip
 * git
+* openVPN
 
 # Usage #
 
