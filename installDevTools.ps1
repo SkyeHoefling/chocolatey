@@ -10,3 +10,5 @@ choco install firefox -y --force
 choco install linqpad -y --force
 choco install git -y --force
 choco install openvpn -y --force
+choco install postman -y --force
+
