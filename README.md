@@ -1,3 +1,4 @@
+
 # Chocolatey Windows Development Script
 A simple chocolatey script for installing all required software for windows development in .NET
 
@@ -16,6 +17,8 @@ A list of all the tools that will be installed
 * 7Zip
 * git
 * openVPN
+* visual studio code
+* gimp
 
 # Usage #
 
