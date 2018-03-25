@@ -11,3 +11,4 @@ choco install linqpad -y --force
 choco install git -y --force
 choco install openvpn -y --force
 choco install visualstudiocode -y --force
+choco install gimp -y --force
